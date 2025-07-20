@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "question": "What is your return policy?",
+    "answer": "We accept returns within 30 days of purchase. The item must be in its original condition and packaging."
+  },
+  {
+    "id": 2,
+    "question": "How long does shipping take?",
+    "answer": "Shipping usually takes 5-7 business days within India. International orders may take 10-15 days."
+  },
+  {
+    "id": 3,
+    "question": "Do you offer customer support?",
+    "answer": "Yes, our customer support is available 24/7 via email and phone. We’re here to help!"
+  },
+  {
+    "id": 4,
+    "question": "Can I change or cancel my order?",
+    "answer": "Orders can be modified or canceled within 2 hours of placement by contacting our support team."
+  },
+  {
+    "id": 5,
+    "question": "Do you offer gift wrapping?",
+    "answer": "Yes, we provide gift wrapping at checkout for a small additional charge."
+  },
+  {
+    "id": 6,
+    "question": "Are your products environmentally friendly?",
+    "answer": "We strive to use eco-friendly packaging and source sustainable materials wherever possible."
+  },
+  {
+    "id": 7,
+    "question": "Is there a warranty on electronics?",
+    "answer": "Yes, electronics come with a 1-year warranty against manufacturing defects."
+  },
+  {
+    "id": 8,
+    "question": "Can I track my order?",
+    "answer": "Absolutely! You will receive a tracking link via email once your order is shipped."
+  },
+  {
+    "id": 9,
+    "question": "What payment methods do you accept?",
+    "answer": "We accept credit/debit cards, UPI, Net Banking, and PayPal."
+  },
+  {
+    "id": 10,
+    "question": "Do you have physical stores?",
+    "answer": "Currently, we are online-only. Stay tuned for pop-up events in your city!"
+  }
+]
